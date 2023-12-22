@@ -45,7 +45,7 @@ Fig 02: Circuit Diagram of the Fire Detecting System
 
 Arduino Uno is a open-source microcontroller board based on the ATmega328p microcontroller. It has 14 digital pins (out of which 6 pins can be used as PWM outputs), 6 analog inputs, on-board voltage regulators etc. Arduino Uno has 32KB of flash memory, 2KB of SRAM and 1KB of EEPROM. It operates at a clock frequency of 16MHz. Arduino Uno supports Serial, I2C, SPI communication for communicating with other devices.
 
-<h2>Result and Discussion</h2>
+## Result and Discussion
 
 ![3](https://github.com/SumaitaB/Arduino-IoT-based-Fire-Alert-System/assets/51522304/812a08cb-b143-4f49-a0c5-520f350b09f6)
 
