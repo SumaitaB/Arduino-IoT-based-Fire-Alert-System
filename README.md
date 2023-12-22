@@ -11,36 +11,33 @@ Fig 01: Working Specification of the Smoke Detecting System
 
 
 
-<h2>Applications</h2>
+## Applications
 
 A wide variety of systems include a fire alerting system. Arduino's IOT-based fire alarm system can be used in chemical plants, shopping centers, local stores, educational institutions, parking areas, businesses.  
 Furthermore, wifi can be used as a precautionary measure at all the locations mentioned above, which can help to alert the fire departments as soon as the buzzer clicks ON. If sufficient and immediate action is taken, it will help to prevent major fire accidents.
+## Apparatus
 
-<h2>Apparatus</h2>
-
-Hardware Specifications
-<ul>
-<li>Arduino Uno Rev3</li>
-<li>Serial LCD Display Module</li>
-<li>Jumper Wires</li>
-<li>Microprocessor Socket</li>
-<li>Bread Board</li>
-<li>Buzzer</li>
-<li>MQ2 Smoke Detector Sensor</li>
-<li>Cables & Connectors</li>
-</ul>
+### Hardware Specifications
+* Arduino Uno Rev3
+* Serial LCD Display Module
+* Jumper Wires
+* Microprocessor Socket
+* Bread Board
+* Buzzer
+* MQ2 Smoke Detector Sensor
+* Cables & Connectors
 
 
-  Software Specification
-  <ul>
-<li>Laptop or PC Workstation</li>
-<li>Arduino IDE</li>
-<li>Arduino Compiler</li>
-<li>Programming Language C</li>
-</ul>
+
+### Software Specification
+
+* Laptop or PC Workstation
+* Arduino IDE
+* Arduino Compiler
+* Programming Language C
 
 
-<h2>Circuit Diagram</h2>
+## Circuit Diagram
 
 ![2](https://github.com/SumaitaB/Arduino-IoT-based-Fire-Alert-System/assets/51522304/85e6ddc1-332d-4cda-8f4a-4c500a89e6e8)
 
