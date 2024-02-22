@@ -17,7 +17,7 @@ A wide variety of systems include a fire alerting system. Arduino's IOT-based fi
 Furthermore, wifi can be used as a precautionary measure at all the locations mentioned above, which can help to alert the fire departments as soon as the buzzer clicks ON. If sufficient and immediate action is taken, it will help to prevent major fire accidents.
 ## Apparatus
 
-### Hardware Specifications
+## Hardware Specifications
 * Arduino Uno Rev3
 * Serial LCD Display Module
 * Jumper Wires
@@ -29,7 +29,7 @@ Furthermore, wifi can be used as a precautionary measure at all the locations me
 
 
 
-### Software Specification
+## Software Specification
 
 * Laptop or PC Workstation
 * Arduino IDE
