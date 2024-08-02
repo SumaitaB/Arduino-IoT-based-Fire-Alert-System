@@ -1,4 +1,4 @@
-# Arduino-IoT-based-Fire-Alert-System
+# Arduino IoT based Fire Alert System
 
 Fires are one of the most widespread cause of deaths by accident. Instant alerting to the fire department is necessary to ensure immediate action. Every minute can save many lives in such situations. So here we propose an IOT based automatic fire department alerting system that instantly and automatically alerts the fire department and informs about the situation so that immediate action can be taken. The system efficiently detects fires and alert fire department over IOT. We use an Arduino Uno in order to check if a sensor is triggered.
 The Internet of Things (IoT) is essentially a network of 'things' through which with the help of sensors, electronics, software and networking, physical things can exchange data. No human intervention is needed by these systems. We can send LIVE data such as temperature, smoke value detected by a specific device to the Fire Department in this Arduino fire alarm system with temperature and smoke sensor using the IOT project.
